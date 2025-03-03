@@ -1,0 +1,19 @@
+.filter-dropdown .dropdown-toggle {
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    color: #045FCC;
+    border: 1px solid #CCCCCC;
+    text-align: left;
+    border-radius: 65px;
+    border: 10px;
+    
+}
+
+.filter-dropdown .dropdown-toggle:after {
+    display: none; 
+}
+
+.bs-filter {
+    margin-right: 5px;
+}

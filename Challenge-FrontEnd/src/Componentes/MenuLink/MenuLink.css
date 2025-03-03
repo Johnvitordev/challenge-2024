@@ -1,0 +1,14 @@
+.nav-link.active {
+    background-image: linear-gradient(to right, #033497, #0568D6);
+    color: white !important;
+    border-radius: 5px;
+  }
+  
+  .nav-link {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-link i {
+    margin-right: 10px;
+  }

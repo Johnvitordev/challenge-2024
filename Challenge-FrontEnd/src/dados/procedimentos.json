@@ -1,0 +1,215 @@
+{
+    "artigos": [
+      {
+        "id": "KB0010536",
+        "titulo": "SYSTEMA Y - Alteração de Acessos",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Alteração de Acessos",
+        "summary": "Este documento fornece instruções passo a passo sobre como modificar os níveis de acesso do usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0010544",
+        "titulo": "SYSTEMA Y - Alterar perfil de acesso",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Alterar perfil de acesso",
+        "summary": "Este documento descreve o processo para atribuir grupos de acesso aos usuários no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0010579",
+        "titulo": "SYSTEMA Y – Alteração de Acessos",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Alteração de Acessos",
+        "summary": "Este documento descreve o procedimento para modificar as permissões de acesso do usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0010603",
+        "titulo": "IT Sistema Y - Criação de acessos",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Criação de acessos",
+        "summary": "Este documento fornece instruções sobre como criar novas contas de usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0010641",
+        "titulo": "Manutenção de Perfil no SYSTEMA Y",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Manutenção de Perfil",
+        "summary": "Este documento detalha como gerenciar perfis e funções de usuários no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0010757",
+        "titulo": "CS - SAP PORTAL - RESET DE SENHA",
+        "classification": "Acesso sistema SAP",
+        "content": "Reset de Senha",
+        "summary": "Este documento orienta os analistas sobre o processo de redefinição de senhas de usuários nos sistemas SAP e SAP Portal."
+      },
+      {
+        "id": "KB0010851",
+        "titulo": "CS - SAP - ZBO104 ATIVAR E INATIVAR CONTA DE USUÁRIO DE SISTEMA",
+        "classification": "Acesso sistema SAP",
+        "content": "Ativar e Inativar Conta de Usuário",
+        "summary": "Este documento explica como ativar ou desativar contas de usuário do sistema no SAP usando a transação ZBO104."
+      },
+      {
+        "id": "KB0010903",
+        "titulo": "CS - SAP – PRORROGACAO E REVOGAÇÃO DE ACESSO DE TERCEIRO",
+        "classification": "Acesso sistema SAP",
+        "content": "Prorrogação e Revogação de Acesso de Terceiro",
+        "summary": "Este documento detalha o processo para estender e revogar o acesso de usuários terceirizados no sistema SAP."
+      },
+      {
+        "id": "KB0011219",
+        "titulo": "CS - SAP PORTAL - DESBLOQUEIO DE USUARIO",
+        "classification": "Acesso sistema SAP",
+        "content": "Desbloqueio de Usuário",
+        "summary": "Este documento descreve o processo para desbloquear contas de usuários nos sistemas SAP e SAP Portal."
+      },
+      {
+        "id": "KB0012187",
+        "titulo": "Criação de Perfil no SYSTEMA Y - Voluntários",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Criação de Perfil",
+        "summary": "Este documento descreve como criar perfis de usuários no sistema SISTEMA Y especificamente para voluntários."
+      },
+      {
+        "id": "KB0012474",
+        "titulo": "ACESSOS - SYSTEMA Y - Alteração de Perfil",
+        "classification": "Gestão de Usuarios",
+        "content": "Alteração de Perfil",
+        "summary": "Este documento detalha o processo para modificar perfis de usuários no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0012483",
+        "titulo": "Inativação de Acesso de Usuário no SYSTEMA Y",
+        "classification": "Gestão de Usuarios",
+        "content": "Inativação de Acesso de Usuário",
+        "summary": "Este documento fornece instruções sobre como desativar o acesso do usuário ao sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0027989",
+        "titulo": "Alteração de Perfil de Usuário SYSTEMA Y",
+        "classification": "Gestão de Usuarios",
+        "content": "Alteração de Perfil de Usuário",
+        "summary": "Este documento orienta a equipe da Central de Serviços através das etapas para abrir um pedido de alteração de perfil de usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0040242",
+        "titulo": "Criação de usuário do SYSTEMA Y",
+        "classification": "Gestão de Usuarios",
+        "content": "Criação de Usuário",
+        "summary": "Este documento descreve como criar novas contas de usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0040416",
+        "titulo": "CS - SAP - ZBO127 INATIVAÇÃO DE USUÁRIO",
+        "classification": "Gestão de Usuarios",
+        "content": "Inativação de Usuário",
+        "summary": "Este documento fornece instruções passo a passo sobre como desativar contas de usuários no sistema SAP usando a transação ZBO127."
+      },
+      {
+        "id": "KB0041208",
+        "titulo": "Criação de Usuário no SYSTEMA Y",
+        "classification": "Gestão de Usuarios",
+        "content": "Criação de Usuário",
+        "summary": "Este documento explica o procedimento para criar novas contas de usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0051001",
+        "titulo": "INFRA - AVD - LIBERAÇÃO DE ACESSO AZURE VIRTUAL DESKTOP",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Liberação de Acesso Azure Virtual Desktop",
+        "summary": "Este documento fornece instruções sobre como conceder acesso ao sistema SISTEMA Y usando o Azure Virtual Desktop."
+      },
+      {
+        "id": "KB0053251",
+        "titulo": "SYSTEMA Y - Ativar, Inativar Acesso e transferir licenças",
+        "classification": "Gestão de Usuarios",
+        "content": "Ativar, Inativar Acesso e transferir licenças",
+        "summary": "Este documento detalha o processo para ativar, desativar e transferir licenças para contas de usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0054515",
+        "titulo": "CS - SAP - ZBO103 ATUALIZAR DADOS DA BU",
+        "classification": "Acesso sistema SAP",
+        "content": "Atualizar Dados da BU",
+        "summary": "Este documento explica como atualizar as informações da Unidade de Negócio de um usuário no sistema SAP usando a transação ZBO103."
+      },
+      {
+        "id": "KB0059109",
+        "titulo": "Troca de perfil de Usuário no SISTEMA Y",
+        "classification": "Gestão de Usuarios",
+        "content": "Troca de perfil de Usuário",
+        "summary": "Este documento descreve o processo de alteração do perfil de um usuário no sistema SISTEMA Y." 
+      },
+      {
+        "id": "KB0059112",
+        "titulo": "SYSTEMA Y - Criação de Perfil",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Criação de Perfil",
+        "summary": "Este documento explica as etapas para criar novos perfis de usuários no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0059113",
+        "titulo": "SYSTEMA Y – Gestão de Acessos",
+        "classification": "Acesso SYSTEMA Y",
+        "content": "Gestão de Acessos",
+        "summary": "Este documento aborda os procedimentos para gerenciar o acesso do usuário no sistema SISTEMA Y, incluindo alterações de senha e ajustes de perfil."
+      },
+      {
+        "id": "KB0059116",
+        "titulo": "SYSTEMA Y – Atribuição de Perfil",
+        "classification": "Gestão de Usuarios",
+        "content": "Atribuição de Perfil",
+        "summary": "Este documento descreve o processo para atribuir perfis específicos aos usuários no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0059193",
+        "titulo": "SYSTEMA Y - Remoção de Acesso",
+        "classification": "Gestão de Usuarios",
+        "content": "Remoção de Acesso",
+        "summary": "Este documento detalha as etapas para remover o acesso do usuário ao sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0059194",
+        "titulo": "SYSTEMA Y - Classificação de Chamados - Acesso",
+        "classification": "Classificação de Chamados",
+        "content": "Classificação de Chamados - Acesso",
+        "summary": "Este documento fornece orientação sobre a classificação de solicitações de suporte técnico relacionadas ao acesso do usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0059210",
+        "titulo": "CS - SAP - CRIAR CONTA DE USUÁRIO NA ZBO104",
+        "classification": "Acesso sistema SAP",
+        "content": "Criar Conta de Usuário no SAP",
+        "summary": "Este documento explica como criar novas contas de usuário do sistema no SAP usando a transação ZBO104."
+      },
+      {
+        "id": "KB0059211",
+        "titulo": "CS - SAP - INATIVAÇÃO DE USUÁRIO NO SAP ZBO104 E SAP PORTAL",
+        "classification": "Acesso sistema SAP",
+        "content": "Inativação de Usuário no SAP ZBO104 e SAP Portal",
+        "summary": "Este documento fornece instruções passo a passo sobre como desativar contas de usuários nos sistemas SAP e SAP Portal."
+      },
+      {
+        "id": "KB0059212",
+        "titulo": "SYSTEMA Y - Criação de Grupos de Acesso",
+        "classification": "Gestão de Usuarios",
+        "content": "Criação de Grupos de Acesso",
+        "summary": "Este documento explica o processo para criar grupos de acesso no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB0059213",
+        "titulo": "SYSTEMA Y - Criação de Menus de Acesso",
+        "classification": "Acesso SISTEMA Y",
+        "content": "Criação de Menus de Acesso",
+        "summary": "Este documento fornece instruções sobre como criar menus de acesso do usuário no sistema SISTEMA Y."
+      },
+      {
+        "id": "KB00510002",
+        "titulo": "FIELD - SYSTEMA Y – Android",
+        "classification": "Configuração",
+        "content": "SISTEMA Y - Android",
+        "summary": "Este documento descreve as etapas para configurar dispositivos Android para uso com o sistema SISTEMA Y."
+      }
+    ]
+  }
+  

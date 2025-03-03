@@ -1,0 +1,81 @@
+
+
+.container-page {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1440px;
+    height: auto;
+    margin: 0 auto;
+    background-color: #F8F8F8;
+    position: relative;
+    overflow-x: hidden;
+    padding: 20px;
+}
+
+.main-content {
+    flex-grow: 1;
+    padding: 20px;
+    background-color: #F8F8F8;
+    transition: margin-left 0.3s ease-in-out;
+    width: 100%;
+    min-height: 100vh; /* Garantir que o conteúdo principal tenha pelo menos a altura da tela */
+}
+
+.main-content > * {
+    margin-bottom: 20px;
+}
+
+/* Estilização da barra lateral (ajustar conforme necessário) */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #fff;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(-250px); /* Inicialmente escondida */
+}
+
+.sidebar-open .sidebar {
+    transform: translateX(0); /* Mostrar a barra lateral quando aberta */
+}
+
+@media (max-width: 768px) {
+    .container-page {
+        flex-direction: column;
+    }
+
+    .main-content {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: static;
+        transform: none; /* Não esconder em telas pequenas */
+        box-shadow: none;
+    }
+}
+
+@media (max-width: 574px) {
+    .container-page{
+        flex-direction: column;
+        height: 100vh;
+        width: 100%;
+    }
+    
+    .main-content {
+    
+        width: 100%;
+        padding: 5px; /* Reduzir o padding em telas muito pequenas */
+    }
+
+    .main-content > * {
+        margin-bottom: 10px; /* Reduzir o espaçamento entre elementos */
+    }
+}

@@ -1,0 +1,33 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar ambientes virtuais Python
+venv/
+Lib/
+__pycache__/
+base.cpython-311.pyc
+# Ignorar arquivos de cache do Python
+*.pyc
+*.pyo
+
+# Ignorar arquivos de lock do Node.js (opcional, se não quiser versionar package-lock.json)
+package-lock.json
+
+# Ignorar diretório de índice FAISS
+faiss_index_directory/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignorar arquivos de configuração locais (exemplo de um possível .env para variáveis de ambiente)
+.env
+
+# Ignorar pastas de build
+dist/
+build/

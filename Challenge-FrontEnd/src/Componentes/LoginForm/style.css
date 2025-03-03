@@ -1,0 +1,79 @@
+.login-container {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.input-container {
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    color: #000;
+    font-size: 30px;
+}
+
+.login-container .input-field {
+    position: relative;
+    width: 32%;
+    height: 50px;
+    outline: none;
+    border: 2px solid #000;
+    border-radius: 20px;
+    font-size: 16px;
+    color: #000;
+    margin: 10px;
+    width: 360px;
+    border-radius: 30px;
+    margin: 5px 0;
+}
+
+.input-field input::placeholder {
+    color: #000;
+}
+
+.login-container .recall-forget {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    
+}
+
+.recall-forget a {
+    text-decoration: none;
+}
+
+.recall-forget a:hover {
+    text-decoration: underline;
+}
+
+.btn-login {
+    width: 100%;
+    padding: 13px;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    font-weight: 600;
+}
+
+.login-container .signup-link {
+    font-size: 15px;
+    text-align: center;
+    margin: 20px 0 10px;
+
+    > p > a {
+        display: block;
+        font-weight: bold;
+    }
+}
+
+.video-background {
+    width: 120px;
+}
+

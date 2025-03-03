@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.infoarea{
+    padding: 0 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+    
+}
+.graficos{
+    display: flex;
+    gap: 10px;
+}
+
+.filter{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+}
+
+.imagem{
+    height: 272px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tabela{
+    height: 487px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin-top: 30px;
+}

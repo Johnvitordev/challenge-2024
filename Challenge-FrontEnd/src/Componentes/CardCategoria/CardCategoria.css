@@ -1,0 +1,32 @@
+.card{
+    display: flex;
+    width: 200px;
+    height: 175px;
+    background-color: #fff;
+    color: #044BB2;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 35px;
+    padding: 20px auto;
+}
+
+.escuro{
+    background-color: #044BB2;
+    color: #fff;
+}
+
+.simbolo {
+    border-radius: 50%;
+    background-color: #fff;
+    margin-bottom: 15px;
+}
+
+.simbolo img{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
